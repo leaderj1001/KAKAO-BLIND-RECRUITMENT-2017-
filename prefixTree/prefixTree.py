@@ -1,3 +1,6 @@
+# [참조] https://blog.ilkyu.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-Trie-%ED%8A%B8%EB%9D%BC%EC%9D%B4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
+# 위 블로그를 참조해서 공부를 하였고, 추가된 부분도 있고 그대로 사용한 부분도 있습니다. 감사합니다.
+
 class Node(object):
     def __init__(self, key, value, count, data=None):
         """
